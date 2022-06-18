@@ -8,4 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 https://docs.google.com/presentation/d/1hnI6fA9NIp0AhFhEwMWAfkNzTHc-ITTDwKvKfEHcqJA/edit?usp=sharing
-Upload a .PDF of your presentation here for review.
+PDF version uploaded within P6 folder
